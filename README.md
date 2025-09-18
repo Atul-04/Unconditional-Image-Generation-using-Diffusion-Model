@@ -21,6 +21,9 @@ This project showcases the capabilities of a simple diffusion model, developed f
 **Starting the Application:**
 When you launch the application, you'll be greeted with an intuitive interface. You'll have the option to select between "Model without Attention" and "Model with Attention". Choose one to generate images from the corresponding model. This feature is designed to demonstrate the impact of incorporating attention mechanisms on the quality of generated images. To begin generating images, simply click the "Generate New Images" button, and the model will start producing around 60 new images.
 
+## Diffusion Model Interface
+
+![Diffusion Model Interface](Interface_image.png)
 
 **Inference Time:**
 Be aware that generating images on a CPU may take between 3 to 5 minutes. Your patience is appreciated during this time. However, if you're using a GPU, the process will be significantly quicker, typically taking less than 1 minute.
